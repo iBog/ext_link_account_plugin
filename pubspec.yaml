@@ -21,3 +21,6 @@ flutter:
     platforms:
       ios:
         pluginClass: ExtLinkAccountPlugin
+      android:
+        package: com.example.app.ext.link.ext_link_account_plugin
+        pluginClass: ExtLinkAccountPlugin
