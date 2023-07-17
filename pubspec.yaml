@@ -1,6 +1,6 @@
 name: ext_link_account_plugin
 description: A new Flutter plugin project.
-version: 0.3.0
+version: 0.3.1
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
